@@ -3,6 +3,45 @@ h2{
 	font-style: bold;
 }
 body{
-font-family: 'Raleway', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 
+#home{
+	text-align: center;
+	padding-top: 60px;
+	height: 400px;
+	background-size: cover;
+}
+.navbar{
+ margin-bottom: 0px; 
+}
+
+#about{
+	padding: 60px;
+	height: 600px;
+}
+.class-sm-4{
+	text-align: center;
+	height: 130px;
+}
+.row{
+ text-align: center;
+}
+
+#first{
+	background-color: #FEDBD0;
+	height: 450px;
+	padding: 30px;
+}
+
+#second{
+	background-color: #442C2E;
+	height: 450px;
+	padding: 30px;
+}
+
+#third{
+	background-color: #FEEAE6;
+	height:450px;
+	padding: 30px;
+}
